@@ -65,7 +65,7 @@ git clone https://github.com/yourusername/ai-image-captioning.git
 cd ai-image-captioning
 
 
-2. **Create and activate virtual environment**
+2. **Create and activate virtual environment**\n
 python -m venv venv
 source venv/bin/activate  # for Linux/Mac
 venv\Scripts\activate     # for Windows
