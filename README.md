@@ -27,8 +27,6 @@ This project is a Flask-based web application that uses a Transformer-based deep
 
 ## 📁 Project Structure
 
-
-
 - `flask-captioner/`: Contains the Flask backend files including the deep learning model, captioning logic, and the main app file (app.py).
 
 - `index.html`: The main HTML frontend for uploading images and displaying AI-generated captions.
@@ -40,11 +38,6 @@ This project is a Flask-based web application that uses a Transformer-based deep
 - `.gitignore`: Specifies files and folders (like __pycache__ or large model files) to be excluded from version control.
 
 - `README.md`: This documentation file that describes the project’s purpose, setup steps, and usage instructions.
-
-
-
-
-
 
 ---
 
